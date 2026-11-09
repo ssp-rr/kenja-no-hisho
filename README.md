@@ -27,6 +27,7 @@ note「賢者の対策立案室」の記事と連動しています。
 | 10_claude-collaboration.md | MuseとClaudeの役割分担と受け渡し |
 | 11_drive-structure-rules.md | ドライブのフォルダ構成とAI連携ルール |
 | 12_announcement-watch.md | 決まった公式ページの発表見張り |
+| 13_video-production.md | 動画づくり（手順動画を画面と台本から自動で組み立て） |
 
 ## 注意
 
